@@ -1,4 +1,4 @@
-# college-library-management-application-main
+# LibraryManagement
 college-library-management-project
 This is an Internship Project Done @PW Skill College Library Management System which is Made using the technologies JBDC,Servlet, JSP, HTML, CSS, MySQL.
 
